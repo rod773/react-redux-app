@@ -1,7 +1,5 @@
 {
   "name": "react-redux-app",
-
-  "baseHref": "./",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
