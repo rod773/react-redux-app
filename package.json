@@ -1,5 +1,6 @@
 {
   "name": "react-redux-app",
+  "homepage": "/wp-content/themes/build",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -19,7 +20,6 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "craco build"
-   
   },
   "eslintConfig": {
     "extends": [
